@@ -27,9 +27,9 @@ C:\GitHub\FolderStructureConventions\tests
 Clique com o botão direito sobre o projeto, em seguida em Properties,
 Clique em Build,
 Em Configuration, selecione Debug,
-Em Output path digite (pasta da solução)\build\(NomeDoProjeto)\Debug,
+Em Output path digite (pasta da solução)\build\\(NomeDoProjeto)\Debug,
 Em Configuration, selecione Release,
-Em Output path digite (pasta da solução)\build\(NomeDoProjeto)\Release.
+Em Output path digite (pasta da solução)\build\\(NomeDoProjeto)\Release.
 
 #### Exemplo
 
