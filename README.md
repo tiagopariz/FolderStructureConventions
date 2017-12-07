@@ -22,7 +22,7 @@ O nome do projeto deve ser nomeado como Namespace.CamadaOuFinalidade.Tests e a p
 
 C:\GitHub\FolderStructureConventions\tests
 
-### Altere a pasta de builds dos projetos
+### Altere a pasta de builds bin e obj dos projetos
 
 Clique com o botão direito sobre o projeto, em seguida em Properties,
 Clique em Build,
@@ -42,4 +42,4 @@ ou
 
 ..\..\build\FolderStructureConventions.Prompt\bin\Debug
 
-### Exclua todas as pastas bin
+### Exclua todas as pastas bin e obj
